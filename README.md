@@ -1,5 +1,5 @@
 # The Note Maker
-Week 11
+Week 11 - Express.js
 
 
 ## Description
@@ -52,8 +52,8 @@ N/A
 
 ---
 
-https://github.com/Lven-Nemsy/SVG-Maker
+https://github.com/Lven-Nemsy/The_note_maker
 
-https://drive.google.com/file/d/1GnuccXPI9B_CyYulW-jL2-kFyldDTL9M/view
+https://nebc-the-note-maker-3c627f186416.herokuapp.com/notes
 
-![Alt text](dist/logo.svg)
+![Alt text](<Assets/Screenshot 2023-08-30 223258.png>)
